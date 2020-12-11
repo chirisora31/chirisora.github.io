@@ -1,2 +1,1 @@
-# chirisora.github.io
-練習
+TinDog Starting Files
